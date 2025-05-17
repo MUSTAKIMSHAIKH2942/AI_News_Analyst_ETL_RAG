@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+langchain
+faiss-cpu
+pydantic
+beautifulsoup4
+requests
+tqdm
