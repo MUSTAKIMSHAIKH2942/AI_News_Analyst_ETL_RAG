@@ -1,6 +1,6 @@
 Here’s your **professional, complete `README.md`** for the AI News Analyst: ETL + RAG project — perfect for pushing to GitHub:
 
----
+--
 
 ````markdown
 # 🧠 AI News Analyst — Real-Time ETL + RAG Pipeline (Python + FastAPI + LangChain + FAISS)
